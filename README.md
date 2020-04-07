@@ -28,9 +28,7 @@
   <img src="./readme/bookmarked_showing.png" width="200" height="400" />
   <img src="./readme/map_view.png" width="200" height="400" />
 </p>
-
 ---
-
 ## Table of Contents
 
 <ul>
